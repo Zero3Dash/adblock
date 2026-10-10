@@ -1,0 +1,33 @@
+! Title: zero3dash permitted sites
+! Expires: 1 days
+! Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services
+! Homepage: https://github.com/Zero3Dash/Pi-Hole
+! License: N/A
+! Source: https://github.com/Zero3Dash/Pi-Hole/blob/main/allowdomains.txt
+
+! Type : Stable
+! Entries : 19
+! Updated On: 09-10-2026
+! Created by: zero3dash
+
+!============ MISC ===========
+
+||push.apple.com^
+||checkip.synology.com^
+||checkip.dyndns.org^
+||s.youtube.com^
+||tailscale.com^
+||dnsforge.de^
+||bt4gprx.com^
+||bitsearch.to^
+||btdig.com^
+||idope.io^
+||limetorrents.fun^
+||proxysite.com^
+||thepiratebay.org^
+||torlock.com^
+||1337x.to^
+||torrents.me^
+||iphone-ld.apple.com^
+||xboxlive.com^
+||arc.msn.com^
