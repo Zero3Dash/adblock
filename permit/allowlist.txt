@@ -6,8 +6,8 @@
 ! Source: https://github.com/Zero3Dash/Pi-Hole/blob/main/allowdomains.txt
 
 ! Type : Stable
-! Entries : 19
-! Updated On: 09-10-2026
+! Entries : 20
+! Updated On: 12-10-2026
 ! Created by: zero3dash
 
 !============ MISC ===========
@@ -31,3 +31,4 @@
 ||iphone-ld.apple.com^
 ||xboxlive.com^
 ||arc.msn.com^
+||collections.mp.microsoft.com^
