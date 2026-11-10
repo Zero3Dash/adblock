@@ -6,8 +6,8 @@
 ! Source: https://github.com/Zero3Dash/Pi-Hole/blob/main/allowdomains.txt
 
 ! Type : Stable
-! Entries : 20
-! Updated On: 12-10-2026
+! Entries : 21
+! Updated On: 10-11-2026
 ! Created by: zero3dash
 
 !============ MISC ===========
